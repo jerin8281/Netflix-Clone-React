@@ -11,6 +11,7 @@ This project is a React-based Netflix clone that replicates the user interface o
 - [Usage](#usage)
 - [Features](#features)
 - [Technologies](#Technologies)
+- [Screnshots](#Screnshots)
 
 
 
@@ -35,7 +36,7 @@ This project is a React-based Netflix clone that replicates the user interface o
 - Axios - A JavaScript library that performs HTTP requests
 
 
-Screnshots
+## Screnshots
 
 ![Screenshot (28)](https://github.com/jerin8281/Netflix-Clone-React/assets/143702561/800da2e4-3e13-4b6e-8be0-cc3c8b226d33)
 ![Screenshot (29)](https://github.com/jerin8281/Netflix-Clone-React/assets/143702561/8bcbe574-0552-4544-ad97-098a0891a9b9)
